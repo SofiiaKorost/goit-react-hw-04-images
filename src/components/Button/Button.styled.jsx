@@ -6,7 +6,7 @@ export const LoadButton = styled.button`
   width: 150px;
   padding: 8px;
   background-color: #2196f3;
-  border-radius: 4px;
+  border-radius: 5px;
   border: 2px solid #fff;
   color: #fff;
   font-weight: 700;
